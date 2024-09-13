@@ -95,7 +95,7 @@ BYE
     ```
  - To build with CUDA:
     ```sh
-    $ make gpu=1 CCAP=35 all
+    $ make gpu=1 CCAP=75 all
     ```
 
 ## License
